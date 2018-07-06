@@ -5,7 +5,7 @@ PyPy: Python in Python Implementation
 About this build
 ================
 
-* This build of PyPy has:
+This build of PyPy has:
 * numpy v1.14.5
 * pandas v0.23.1
 * scipy v1.1.0    
