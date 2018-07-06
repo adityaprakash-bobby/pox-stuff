@@ -17,7 +17,7 @@ If you want to help developing PyPy, this documentation might help you:
 
 More documentation about the RPython framework can be found here
 
-    http://rpython.readthedocs.io
+http://rpython.readthedocs.io
 
 The source for the documentation is in the pypy/doc directory 
 
@@ -40,8 +40,8 @@ Enjoy and send us feedback!
 
     the pypy-dev team <pypy-dev@python.org>
 
-About this build:
-=================
+About this build
+================
 
 This build of PyPy has:
     numpy v1.14.5
