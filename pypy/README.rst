@@ -40,4 +40,10 @@ Enjoy and send us feedback!
 
     the pypy-dev team <pypy-dev@python.org>
 
-
+About this build
+================
+This build of PyPy has:
+1. numpy v1.14.5
+2. pandas v0.23.1
+3. scipy v1.1.0
+4. cython 
